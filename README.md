@@ -62,17 +62,17 @@ Overall, MedAware strives to democratize healthcare by providing an affordable a
 
 ## More ScreenShots
 
-![Screenshot (224)](./README_Assets/ScreenShots/Screenshot%202024-05-10%20215822.png)
+![Screenshot](./README_Assets/ScreenShots/Screenshot%202024-05-10%20215822.png)
 
-![Screenshot (246)](./README_Assets/ScreenShots/Screenshot%202024-05-10%20225804.png)
+![Screenshot](./README_Assets/ScreenShots/Screenshot%202024-05-10%20225804.png)
 
-![Screenshot (244)](./README_Assets/ScreenShots/Screenshot%202024-05-10%20230000.png)
+![Screenshot ](./README_Assets/ScreenShots/Screenshot%202024-05-10%20230000.png)
 
-![Screenshot (245)](./README_Assets/ScreenShots/Screenshot%202024-05-10%20225750.png)
+![Screenshot](./README_Assets/ScreenShots/Screenshot%202024-05-10%20225750.png)
 
-![Screenshot (245)](./README_Assets/ScreenShots/Screenshot%202024-05-10%20215911.png)
+![Screenshot ](./README_Assets/ScreenShots/Screenshot%202024-05-10%20215911.png)
 
-![Screenshot (245)](./README_Assets/ScreenShots/Screenshot%202024-05-10%20215852.png)
+![Screenshot ](./README_Assets/ScreenShots/Screenshot%202024-05-10%20215852.png)
 
 
 
@@ -90,8 +90,8 @@ Overall, MedAware strives to democratize healthcare by providing an affordable a
 ## Authors
 
 - [Gaurav Verma](https://github.com/Gaurav07076/)
-- [Samyak Swaroop Mishra](https://github.com/samyak269)
 - [Prithwiraj Mishra](https://github.com/The-Prithwiraj06)
+- [Samyak Swaroop Mishra](https://github.com/samyak269)
 
 
  
