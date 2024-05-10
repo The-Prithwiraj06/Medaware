@@ -35,7 +35,7 @@ The problem arises from the lack of easily accessible and affordable disease pre
 
 
 
-![Screenshot (225)](https://github.com/Gaurav07076/MedAware/assets/103797867/cc3a4385-fa95-4931-ba90-38ccda9f735a)
+![Screenshot](./README_Assets/ScreenShots/Screenshot%202024-05-10%20215807.png)
 
 ## Our Solution
 MedAware aims to become the go-to platform for individuals seeking reliable and cost-effective healthcare solutions before considering a visit to the hospital.
@@ -62,7 +62,7 @@ Overall, MedAware strives to democratize healthcare by providing an affordable a
 
 ## More ScreenShots
 
-![Screenshot (224)](https://github.com/Gaurav07076/MedAware/assets/103797867/771d6dfd-b917-46b9-ace6-5f181032bfea)
+![Screenshot (224)](./README_Assets/ScreenShots/Screenshot%202024-05-10%20215822.png)
 
 ![Screenshot (246)](https://github.com/Gaurav07076/MedAware/assets/103797867/e6cc2c9e-31a1-4add-ade1-218c85c940bc)
 
