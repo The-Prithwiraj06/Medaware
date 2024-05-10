@@ -6,7 +6,7 @@ A Disease Diagnosis portal powered by machine learning trained models. We harnes
 
 Health related problems have and their checkups have never been affordable. We want to be the place that becomes first stop before the hospital. Also, it a solution for those who find there body a bit out of order. They, may get their diagnostic results here and based on that proceed accordingly.
 
-![Screenshot (247)](README_Assets\ScreenShots\Screenshot 2024-05-10 215911.png)
+![Screenshot (247)](./README_Assets/ScreenShots/Screenshot%202024-05-10%20215950.png)
 ## Deployment
 
 To deploy this project run
