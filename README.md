@@ -64,11 +64,15 @@ Overall, MedAware strives to democratize healthcare by providing an affordable a
 
 ![Screenshot (224)](./README_Assets/ScreenShots/Screenshot%202024-05-10%20215822.png)
 
-![Screenshot (246)](https://github.com/Gaurav07076/MedAware/assets/103797867/e6cc2c9e-31a1-4add-ade1-218c85c940bc)
+![Screenshot (246)](./README_Assets/ScreenShots/Screenshot%202024-05-10%20225804.png)
 
-![Screenshot (244)](https://github.com/Gaurav07076/MedAware/assets/103797867/39c7cdba-5722-4d87-8bd1-e21fbab6503a)
+![Screenshot (244)](./README_Assets/ScreenShots/Screenshot%202024-05-10%20230000.png)
 
-![Screenshot (245)](https://github.com/Gaurav07076/MedAware/assets/103797867/24d7584c-7c97-4d8b-9a11-3afe8d05c012)
+![Screenshot (245)](./README_Assets/ScreenShots/Screenshot%202024-05-10%20225750.png)
+
+![Screenshot (245)](./README_Assets/ScreenShots/Screenshot%202024-05-10%20215911.png)
+
+![Screenshot (245)](./README_Assets/ScreenShots/Screenshot%202024-05-10%20215852.png)
 
 
 
